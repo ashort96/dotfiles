@@ -103,4 +103,3 @@ source $ZSH/oh-my-zsh.sh
 source ~/.zsh.path 
 source ~/.zsh.aliases
 source ~/.zsh.custom
-export PATH="/usr/local/opt/openssl@3/bin:$PATH"
