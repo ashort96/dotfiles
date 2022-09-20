@@ -1,0 +1,1 @@
+alias gist="git log --pretty=oneline --graph --color --decorate --all --abbrev-commit"
